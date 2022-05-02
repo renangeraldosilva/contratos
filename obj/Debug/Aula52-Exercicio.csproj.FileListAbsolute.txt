@@ -1,0 +1,11 @@
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula52-Exercicio\obj\Debug\Aula52-Exercicio.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula52-Exercicio\obj\Debug\Aula52-Exercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula52-Exercicio\obj\Debug\Aula52_Exercicio.Form1.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula52-Exercicio\obj\Debug\Aula52_Exercicio.Properties.Resources.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula52-Exercicio\obj\Debug\Aula52-Exercicio.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula52-Exercicio\obj\Debug\Aula52-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula52-Exercicio\bin\Debug\Aula52-Exercicio.exe.config
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula52-Exercicio\bin\Debug\Aula52-Exercicio.exe
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula52-Exercicio\bin\Debug\Aula52-Exercicio.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula52-Exercicio\obj\Debug\Aula52-Exercicio.exe
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula52-Exercicio\obj\Debug\Aula52-Exercicio.pdb
